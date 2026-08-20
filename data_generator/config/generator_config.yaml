@@ -1,0 +1,11 @@
+project:
+  name: InsureFlow360
+
+output:
+  csv_path: data_generator/output/csv
+
+logging:
+  log_path: data_generator/logs
+
+country:
+  total_records: 20

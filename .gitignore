@@ -1,0 +1,28 @@
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+logs/
+
+# Generated data
+data_generator/output/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db

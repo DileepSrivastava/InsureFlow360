@@ -1,0 +1,10 @@
+faker
+pandas
+numpy
+openpyxl
+xlsxwriter
+reportlab
+pillow
+pyyaml
+requests
+python-dateutil
